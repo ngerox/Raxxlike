@@ -3,7 +3,7 @@ requests
 aiohttp
 googleapis-common-protos
 pycryptodome
-protobuf
+protobuf>=7.36.2
 Werkzeug
 PyJWT
 Flask==3.0.3
