@@ -1,0 +1,15 @@
+Flask[async]
+requests
+aiohttp
+googleapis-common-protos
+pycryptodome
+protobuf
+Werkzeug
+PyJWT
+Flask==3.0.3
+requests==2.32.3
+aiohttp==3.10.5
+pycryptodome==3.20.0
+protobuf==4.25.3
+PyJWT==2.9.0
+urllib3==2.2.3
